@@ -157,10 +157,5 @@ CREATE TABLE IF NOT EXISTS SUPPLY (
 
 COMMIT;
 
-show tables;
-
-select * from nurse;
-
-
 
 
